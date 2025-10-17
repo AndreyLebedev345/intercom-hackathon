@@ -44,4 +44,7 @@ Thumbs.db
 # Temporary files
 *.tmp
 *.log
-request.json
+
+# Scratch/test files
+scratch/
+test_local.py

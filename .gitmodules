@@ -1,0 +1,3 @@
+[submodule "v0-website-generator-with-video"]
+	path = v0-website-generator-with-video
+	url = git@github.com:AndreyLebedev345/v0-website-generator-with-video.git
