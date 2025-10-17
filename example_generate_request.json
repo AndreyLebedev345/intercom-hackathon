@@ -1,0 +1,7 @@
+{
+  "image_urls": ["https://example.com/your-image.jpg"],
+  "prompt": "Describe the animation you want here. Include: the action/movement, visual style, camera motion, and pacing.",
+  "resolution": "720p",
+  "duration": "8s",
+  "generate_audio": false
+}

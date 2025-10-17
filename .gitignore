@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+ENV/
+env/
+*.egg-info/
+dist/
+build/
+
+# Environment variables
+.env
+config.env
+
+# Video files
+*.mp4
+*.avi
+*.mov
+*.webm
+
+# Extracted frames
+extracted_frames/
+
+# Analysis results
+local_analysis_result.json
+
+# Modal
+.modal/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
+request.json

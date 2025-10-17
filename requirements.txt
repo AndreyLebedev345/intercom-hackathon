@@ -1,0 +1,5 @@
+modal
+google-genai
+yt-dlp
+requests
+python-dotenv
